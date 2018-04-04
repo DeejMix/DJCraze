@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(45deg, purple, white, orange, white, purple, white);
+}
+a {
+  font-family: Orbitron;
+}
+li {
+  font-family: Orbitron;
+  border-left: 3px solid black;
+  padding-left: 10px;
+}
+h1 {
+  font-family: Audiowide;
+}
+.topcharts {
+  border-bottom: 3px solid black;
+}
+.dancelist {
+  border-bottom: 2px solid black;
+}
