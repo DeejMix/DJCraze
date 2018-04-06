@@ -1,0 +1,21 @@
+#titlecontainer {
+background-image: url("http://ak1.picdn.net/shutterstock/videos/9122141/thumb/7.jpg");
+
+}
+#title {
+  font-family: Lato;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+  }
+  #trackcontainer {
+  background: orange;
+  }
+  #trackname {
+  font-family: Lato;
+  text-align: center;
+  }
+  #artistname {
+  text-align: center;
+  }
+  
