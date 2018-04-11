@@ -18,4 +18,8 @@ background-image: url("http://ak1.picdn.net/shutterstock/videos/9122141/thumb/7.
   #artistname {
   text-align: center;
   }
+#description {
+  font-family: Lato;
+  font-size: 18pt;
+}
   
